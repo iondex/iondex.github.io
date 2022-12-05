@@ -23,7 +23,7 @@
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
     "hexo-theme-landscape": "^0.0.3",
-    "hexo-theme-next": "^8.6.1",
+    "hexo-theme-next": "^8.14.0",
     "highlightjs-solidity": "^1.1.1"
   }
 }
